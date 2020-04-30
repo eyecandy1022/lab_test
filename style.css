@@ -1,0 +1,20 @@
+
+    .a {
+        color: red;
+        background-color: palevioletred;
+      }
+      .b {
+        color: blue;
+      }
+      #c{
+          color:yellow
+      }
+      .d{
+          background-image: url(../img/1.jpg);
+          
+          height: 1600px;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+          
+        
